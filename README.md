@@ -7,6 +7,14 @@ Hooks to enforce code quality, a wizard to scaffold new projects, scanners to fi
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+```
+Branch: unknown
+
+Nothing to commit, working tree clean
+```
+
+*devtool git status — formatted table output, zero dependencies.*
+
 ## Quickstart
 
 ```bash

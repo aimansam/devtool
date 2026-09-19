@@ -1,5 +1,12 @@
 # devtool
 
+```text
+╔══════════════════════════════╗
+║          DEVTOOL             ║
+║  build · check · ship        ║
+╚══════════════════════════════╝
+```
+
 **Developer workflow automation toolkit — git hooks, project scaffolding, and code scanners in one pip install.**
 
 Hooks to enforce code quality, a wizard to scaffold new projects, scanners to find TODOs and unused files, and helpers for git status and release versioning. Everything you reach for across projects, packaged as one CLI.

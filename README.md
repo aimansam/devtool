@@ -1,10 +1,12 @@
 # devtool
 
 ```text
-╔══════════════════════════════╗
-║          DEVTOOL             ║
-║  build · check · ship        ║
-╚══════════════════════════════╝
+      _.-======-._
+   .-'   .----.   '-.
+  /     /  __  \\     \\
+ |     |  /  \\  |     |   DEVTOOL
+  \\     \\____/     /      build · check · ship
+   '-.__________.-'
 ```
 
 **Developer workflow automation toolkit — git hooks, project scaffolding, and code scanners in one pip install.**
